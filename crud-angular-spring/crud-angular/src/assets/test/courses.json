@@ -8,5 +8,10 @@
     "_id": "2",
     "name": "Spring ",
     "category": "backend"
-  }
+  },
+   {
+     "_id": "3",
+     "name": "Azure ",
+     "category": "cloud"
+   }
 ]

@@ -10,6 +10,8 @@ export class CategoryPipe implements PipeTransform {
         return 'code';
       case 'backend':
         return 'computer';
+      case 'cloud':
+        return 'cloud';
     }
     return 'code';
   }
